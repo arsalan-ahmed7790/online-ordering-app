@@ -32,7 +32,7 @@ function App() {
         
         {/* Toast Notifications */}
         <Toaster 
-          position="top-right" 
+          position="top-center" 
           richColors 
           closeButton
           toastOptions={{
